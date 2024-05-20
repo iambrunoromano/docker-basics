@@ -1,16 +1,16 @@
 # Docker Basics
 
 This single-file repo will briefly go over:
-1. Docker Theory
-2. How to run:
-    - Ubuntu container
-    - NGINX container
-3. Containers management
-4. Images management
-5. Volume on NGNIX container
-6. Dockerfile
+1. [Docker Theory](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#docker-theory)
+2. [Run Container](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#run-container):
+    - Ubuntu
     - NGINX
-7. Docker Compose
+3. [Containers management](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#containers-management)
+4. [Images management](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#images-management)
+5. [Volume on NGNIX container](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#volume-on-ngnix-container)
+6. [Dockerfile](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#dockerfile)
+    - NGINX
+7. [Docker Compose](https://github.com/iambrunoromano/docker-basics/blob/master/README.md#docker-compose)
     - Dockerfile for Compose application
     - Docker Compose file
     - Running Docker Compose infrastructure
